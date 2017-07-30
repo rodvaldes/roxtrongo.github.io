@@ -17,15 +17,6 @@ En este post vamos a ver la manera de automatizar aspectos del desarrollo de pro
 * Query Surge.
 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-
 # Infraestructura
 
 La infraestructura para una POC de Bussines Inteligence:
@@ -43,6 +34,26 @@ La infraestructura podrá ser en las siguientes modalidades:
 * Hybrid.
 
 
+# Teradata
+
+### The Active Data Warehouse
+
+An active data warehouse:
+• Provides a single up-to-date view of the enterprise on one platform.
+• Represents a logically consistent store of detailed data available for strategic, tactical, and event driven business decision making.
+• Relies on timely updates to the critical data (as close to real time as needed).
+• Supports short, tactical queries that return in seconds, alongside of traditional decision support.
+
+### Teradata Active Solutions
+
+In an active data warehouse, Teradata provides both strategic intelligence and operational intelligence.
+
+* Strategic intelligence entails delivering intelligence through tools and utilities and query mechanisms that support strategic decision-making.
+This includes, for example, providing users with simple as well as complex reports throughout the day which indicate the business trends that have occurred and that are occurring, which show why such trends occurred, and which predict if they will continue to occur.
+* Operational intelligence entails delivering intelligence through tools and utilities and query mechanisms that support front-line or operational decision-making.
+
+
+
 # Obtener Teradata
 
 Teradata es un RDMS y Datawarehouse utilizada en organizaciones de nivel enterprise para 
@@ -51,6 +62,8 @@ realizar tareas de Bussiness Inteligence.
 ## Descarga
 
 https://downloads.teradata.com/download/database/teradata-express-for-vmware-player
+
+[Doc](doc/Teradata\ Express\ Installation\ and\ Configuration\ Guide.pdf) 
 
 
 
