@@ -5,16 +5,16 @@ date:   2017-07-30 00:06:34 -0400
 categories: jekyll update
 ---
 
-#Introducción
+# Introducción
 
 En este post vamos a ver la manera de automatizar aspectos del desarrollo de proyectos BI. 
 
-#Conceptos
+# Conceptos
 
-*Data Warehouse.
-*ETL.
-*Data sources.
-*Query Surge.
+* Data Warehouse.
+* ETL.
+* Data sources.
+* Query Surge.
 
 
 {% highlight ruby %}
