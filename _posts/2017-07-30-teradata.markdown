@@ -39,10 +39,10 @@ La infraestructura podrá ser en las siguientes modalidades:
 ### The Active Data Warehouse
 
 An active data warehouse:
-• Provides a single up-to-date view of the enterprise on one platform.
-• Represents a logically consistent store of detailed data available for strategic, tactical, and event driven business decision making.
-• Relies on timely updates to the critical data (as close to real time as needed).
-• Supports short, tactical queries that return in seconds, alongside of traditional decision support.
+
+* Provides a single up-to-date view of the enterprise on one platform. Represents a logically consistent store of detailed data  available for strategic, tactical, and event driven business decision making.
+* Relies on timely updates to the critical data (as close to real time as needed).
+* Supports short, tactical queries that return in seconds, alongside of traditional decision support.
 
 ### Teradata Active Solutions
 
@@ -63,7 +63,7 @@ realizar tareas de Bussiness Inteligence.
 
 https://downloads.teradata.com/download/database/teradata-express-for-vmware-player
 
-[Doc](doc/Teradata\ Express\ Installation\ and\ Configuration\ Guide.pdf) 
+[Doc](doc/Teradata Express Installation and Configuration Guide.pdf) 
 
 
 
