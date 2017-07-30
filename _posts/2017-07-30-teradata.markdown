@@ -25,6 +25,35 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
+
+# Infraestructura
+
+La infraestructura para una POC de Bussines Inteligence:
+
+1. Una instancia de Desarrollo de *Teradata*.
+2. Un ambiente de Desarrollo, o las especificaciones de este.( OS, Herramientas,..).
+3. Un repositorio de código para versionamiento de archivos de texto. (Git).
+4. Una instancia de motor CI ( Bamboo , Jenkins, ...).
+5. VMware Player, VMware Workstation o Fusion. 
+
+La infraestructura podrá ser en las siguientes modalidades:
+
+* Public Cloud ( OpenCloud, AWS, ...).
+* On-Premise (Bare Metal, VirtualMachines, Docker, ...).
+* Hybrid.
+
+
+# Obtener Teradata
+
+Teradata es un RDMS y Datawarehouse utilizada en organizaciones de nivel enterprise para 
+realizar tareas de Bussiness Inteligence.
+
+## Descarga
+
+https://downloads.teradata.com/download/database/teradata-express-for-vmware-player
+
+
+
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
